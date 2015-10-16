@@ -1,0 +1,13 @@
+{
+  "name": "mean-cms",
+  "main": "server.js",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.14.1",
+    "bson": "^0.4.16",
+    "express": "^4.13.3",
+    "jsonwebtoken": "^5.4.0",
+    "mongoose": "^4.1.9",
+    "morgan": "^1.6.1"
+  }  
+}
